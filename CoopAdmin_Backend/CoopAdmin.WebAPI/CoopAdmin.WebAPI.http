@@ -1,0 +1,6 @@
+@CoopAdmin.WebAPI_HostAddress = http://localhost:5171
+
+GET {{CoopAdmin.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

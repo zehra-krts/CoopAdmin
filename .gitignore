@@ -1,0 +1,30 @@
+# Frontend (Node.js)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+dist/
+build/
+
+# Backend (.NET / C#)
+bin/
+obj/
+appsettings.Development.json
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# İşletim Sistemi
+Thumbs.db
+.DS_Store
+
+# Teslimat paketi - Release manuel ZIP ile iletilir
+CoopAdmin_Project_v1/Release/
+*.bak
+*.bak
+docker-compose.yml
+.vite/
